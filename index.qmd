@@ -1,11 +1,18 @@
 ---
-title: "PersonalWebsite"
+title: "Megan Kingsley"
+about:
+  template: jolla
+  image: images/meg.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/mkingsley25
 ---
 
-This is a Quarto website.
+*Recent Graduate in Environmental Science*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+SUNY College of Environmental Science and Forestry
 
-```{r}
-1 + 1
-```
+## Education
+
+Bachelors of Science, SUNY ESF | 2026

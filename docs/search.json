@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PersonalWebsite",
+    "objectID": "Job History.html",
+    "href": "Job History.html",
+    "title": "Job History",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Research Scientist\nField Intern"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Job History.html#upstate-freshwater-institute",
+    "href": "Job History.html#upstate-freshwater-institute",
+    "title": "Job History",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Research Scientist\nField Intern"
+  },
+  {
+    "objectID": "Job History.html#oswego-county-soil-and-water-conservation-district",
+    "href": "Job History.html#oswego-county-soil-and-water-conservation-district",
+    "title": "Job History",
+    "section": "Oswego County Soil and Water Conservation District",
+    "text": "Oswego County Soil and Water Conservation District\n\nConservation Aide\nWater Chestnut Intern"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Megan Kingsley",
+    "section": "",
+    "text": "Recent Graduate in Environmental Science\nSUNY College of Environmental Science and Forestry"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Megan Kingsley",
+    "section": "Education",
+    "text": "Education\nBachelors of Science, SUNY ESF | 2026"
   }
 ]
