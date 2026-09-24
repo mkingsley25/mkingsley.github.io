@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "Job History.html",
-    "href": "Job History.html",
-    "title": "Job History",
-    "section": "",
-    "text": "Research Scientist\nField Intern"
-  },
-  {
-    "objectID": "Job History.html#upstate-freshwater-institute",
-    "href": "Job History.html#upstate-freshwater-institute",
-    "title": "Job History",
-    "section": "",
-    "text": "Research Scientist\nField Intern"
-  },
-  {
-    "objectID": "Job History.html#oswego-county-soil-and-water-conservation-district",
-    "href": "Job History.html#oswego-county-soil-and-water-conservation-district",
-    "title": "Job History",
-    "section": "Oswego County Soil and Water Conservation District",
-    "text": "Oswego County Soil and Water Conservation District\n\nConservation Aide\nWater Chestnut Intern"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Megan Kingsley",
@@ -33,5 +12,33 @@
     "title": "Megan Kingsley",
     "section": "Education",
     "text": "Education\nBachelors of Science, SUNY ESF | 2026"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Megan Kingsley",
+    "section": "About Me",
+    "text": "About Me\nEnthusiastic Research Scientist at Upstate Freshwater Institute"
+  },
+  {
+    "objectID": "Job History.html",
+    "href": "Job History.html",
+    "title": "Job History",
+    "section": "",
+    "text": "Research Scientist\n\nWater sample collection\nSonde checks and maintenance\nScientific Diver Certification\nData analysis\n\nField Intern"
+  },
+  {
+    "objectID": "Job History.html#upstate-freshwater-institute",
+    "href": "Job History.html#upstate-freshwater-institute",
+    "title": "Job History",
+    "section": "",
+    "text": "Research Scientist\n\nWater sample collection\nSonde checks and maintenance\nScientific Diver Certification\nData analysis\n\nField Intern"
+  },
+  {
+    "objectID": "Job History.html#oswego-county-soil-and-water-conservation-district",
+    "href": "Job History.html#oswego-county-soil-and-water-conservation-district",
+    "title": "Job History",
+    "section": "Oswego County Soil and Water Conservation District",
+    "text": "Oswego County Soil and Water Conservation District\n\nConservation Aide\nWater Chestnut Intern"
   }
 ]

@@ -5,7 +5,10 @@ title: "Job History"
 ## Upstate Freshwater Institute
 
 - Research Scientist
-
+  - Water sample collection
+  - Sonde checks and maintenance
+  - Scientific Diver Certification
+  - Data analysis
 - Field Intern
 
 ## Oswego County Soil and Water Conservation District

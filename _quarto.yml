@@ -8,8 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-
-
+      - href: Job History.qmd
+        text: Job History
+        
+     
 format:
   html:
     theme:
