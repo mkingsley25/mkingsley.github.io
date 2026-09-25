@@ -5,11 +5,16 @@ project:
 website:
   title: "Megan Kingsley"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
-        text: Home
+        text: " "
+        icon: house-door-fill
       - href: Job History.qmd
         text: Job History
+      - href: Relevant Courses.qmd
+      - text: Relevant Courses
         
      
 format:
