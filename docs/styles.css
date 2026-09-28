@@ -1,1 +1,29 @@
 /* css styles */
+.navbar-brand,
+.navbar-title,
+.navbar-brand span,
+a.navbar-brand {
+  font-size: 1.8rem !important;
+  font-weight: 800 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  color: #4682b4 !importantimportant;
+}
+
+.navbar-brand:hover,
+a.navbar-brand:hover,
+.navbar-brand:focus,
+.navbar-brand:active {
+  color: #4682b4 !important; 
+}
+
+h1, .h1, .title {
+  color: #4682b4 !important;
+  font-weight: 800 !important;
+}
+
+h2, .h2 {
+  color: #4682b4 !important;
+  font-weight: 700 !important;
+  margin-top: 1.5rem;
+}
