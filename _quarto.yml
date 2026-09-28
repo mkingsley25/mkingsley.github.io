@@ -15,6 +15,8 @@ website:
         href: Job History.qmd
       - text: "Relevant Courses"
         href: Relevant Courses.qmd
+      - text: "Projects"
+        href: Projects.qmd
 
 format:
   html:
