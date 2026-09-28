@@ -3,3 +3,9 @@ title: "Relevant Courses"
 ---
 
 ## Limnology 
+
+## Geospatial Information Systems (GIS)
+
+## River Form and Process
+
+## Statistics

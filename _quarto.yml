@@ -4,26 +4,23 @@ project:
 
 website:
   title: "Megan Kingsley"
+  search: true
   navbar:
-    background: primary
-    search: true
+    background: light
     left:
-      - href: index.qmd
+      - icon: house-fill
+        href: index.qmd
         text: " "
-        icon: house-door-fill
-      - href: Job History.qmd
-        text: Job History
-      - href: Relevant Courses.qmd
-      - text: Relevant Courses
-        
-     
+      - text: "Job History"
+        href: Job History.qmd
+      - text: "Relevant Courses"
+        href: Relevant Courses.qmd
+
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
-
-
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://jsdelivr.net">
