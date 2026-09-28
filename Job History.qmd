@@ -7,12 +7,20 @@ title: "Job History"
 - Research Scientist
   - Water sample collection
   - Sonde checks and maintenance
-  - Scientific Diver Certification
+  - Scientific Diver
   - Data analysis
+  
 - Field Intern
+  - Water sample collection
+  - Sample bottle labeling
+  - Sonde checks and maintenance
 
 ## Oswego County Soil and Water Conservation District
 
 - Conservation Aide
-
+  - Culvert assessments
+  - Forestry boundary maintenance
+  
 - Water Chestnut Intern
+  - Hand pulling water chestnuts
+  - Sediment collection via petite ponar grab
