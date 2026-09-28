@@ -21,6 +21,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-    include-in-header:
-      text: |
-        <link rel="stylesheet" href="https://jsdelivr.net">
