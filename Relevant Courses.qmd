@@ -6,12 +6,15 @@ title: "Relevant Courses"
 - Studied inland water systems (lentic and lotic)
 - Connected chemistry, biology, geology, and human interactions to inland water systems 
 - Sampled local kettle lake for analysis of water quality indicators
+
 ## Geographic Information Systems (GIS)
 - Used raster and vector data models to complete maps with specific guidelines
 - Apply use of global positioning systems (GPS)
+
 ## River Form and Process  
 - Designed a river improvement/restoration project for a local stream
-- Wrote a report that outlined intent, materials, measurements, location, Best Management Practices (BMPs), and alternatives
+- Wrote a report on the design of the project that outlined intent, materials, measurements, location, Best Management Practices (BMPs), and alternatives
+
 ## Probability and Statistics
 - Sampling distribution
 - Categorical data analysis
